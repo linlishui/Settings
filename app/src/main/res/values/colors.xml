@@ -28,7 +28,7 @@
         @color/lock_pattern_view_regular_color
     </color>
     <color name="setup_lock_pattern_view_success_color_dark">#ff84ffff</color>
-    <color name="setup_lock_pattern_view_success_color_light">@color/sud_color_accent_light</color>
+    <color name="setup_lock_pattern_view_success_color_light">#ff3367d6</color>
     <color name="setup_lock_pattern_view_error_color_dark">#fff44336</color>
     <color name="setup_wizard_wifi_color_dark">#89ffffff</color>
     <color name="setup_wizard_wifi_color_light">#89000000</color>
@@ -47,7 +47,7 @@
     <color name="running_processes_system_ram">#ff384248</color>
     <color name="running_processes_free_ram">#ffced7db</color>
 
-    <color name="sim_noitification">@*android:color/accent_device_default_light</color>
+    <color name="sim_noitification">#006C5F</color>
 
     <color name="confirm_device_credential_transparent_black">#60000000</color>
 
@@ -103,11 +103,11 @@
     <color name="homepage_wallpaper_background">#E51AD1</color>
     <color name="homepage_notification_background">#DD4C9D</color>
 
-    <color name="contextual_card_dismissal_background">@*android:color/material_grey_100</color>
-    <color name="contextual_card_background">@*android:color/background_device_default_light</color>
+    <color name="contextual_card_dismissal_background">#fff5f5f5</color>
+    <color name="contextual_card_background">#f0f0f0</color>
     <!-- End of dashboard/homepage icon background colors -->
 
-    <color name="switchbar_background_color">@*android:color/material_grey_600</color>
+    <color name="switchbar_background_color">#ff757575</color>
     <color name="switchbar_switch_track_tint">#BFFFFFFF</color>
     <color name="switchbar_switch_thumb_tint">@android:color/white</color>
 
@@ -140,7 +140,7 @@
     <color name="notification_history_background">?android:attr/colorBackgroundFloating</color>
 
     <!-- launcher icon color -->
-    <color name="icon_launcher_setting_color">@*android:color/accent_device_default_light</color>
+    <color name="icon_launcher_setting_color">#006C5F</color>
 
     <!-- QR code scanner colors -->
     <color name="qr_corner_line_color">#ffdadce0</color>
@@ -149,7 +149,7 @@
     <!-- End of QR code scanner colors -->
 
     <!-- Search bar background color -->
-    <color name="search_bar_background">?androidprv:attr/colorSurfaceHighlight</color>
+    <color name="search_bar_background">?android:attr/colorSurfaceHighlight</color>
 
     <color name="face_enroll_icon_color">#42a5f5</color> <!-- Blue 400 -->
 
@@ -193,7 +193,7 @@
     <color name="SIM_dark_mode_color_red">#ffef9a9a</color> <!-- Material Red 200 -->
 
     <!-- Top app bar colors -->
-    <color name="color_surface_header">@*android:color/surface_header_light</color>
+    <color name="color_surface_header">#e2e2e2</color>
 
     <!-- Accessibility Settings icon background colors -->
     <color name="accessibility_feature_background">#5F6368</color> <!-- Google grey 700 -->
@@ -209,8 +209,8 @@
     <color name="fingerprint_enrollment_finish_color_outline">#1A73E8</color>
 
     <!-- Material inverse ripple color, useful for inverted backgrounds. -->
-    <color name="ripple_material_inverse">@*android:color/ripple_material_dark</color>
+    <color name="ripple_material_inverse">@color/ripple_material_dark</color>
 
     <!-- Battery error text color -->
-    <color name="battery_info_error_color_black">@*android:color/primary_text_default_material_light</color>
+    <color name="battery_info_error_color_black">#de000000</color>
 </resources>

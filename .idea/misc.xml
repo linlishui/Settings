@@ -4,9 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../layout/custom_preview.xml" value="0.40520833333333334" />
+        <entry key="../../Library/Android/sdk/platforms/android-31/data/res/drawable/list_divider_material.xml" value="0.25" />
         <entry key="app/src/main/res/drawable/ic_notifications.xml" value="0.163" />
         <entry key="app/src/main/res/drawable/ic_settings_wallpaper_white.xml" value="0.163" />
+        <entry key="app/src/main/res/drawable/list_divider_material.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/tapandpay_emptystate.xml" value="0.415" />
+        <entry key="app/src/main/res/drawable/tile_icon_show_layout.xml" value="0.415" />
+        <entry key="app/src/main/res/drawable/wifi_dpp_error.xml" value="0.415" />
         <entry key="app/src/main/res/layout/face_enroll_education.xml" value="0.3770833333333333" />
+        <entry key="app/src/main/res/layout/manage_applications_apps.xml" value="0.465625" />
         <entry key="app/src/main/res/menu/account_settings.xml" value="0.3770833333333333" />
         <entry key="app/src/main/settings_res/drawable/ic_help.xml" value="0.163" />
       </map>

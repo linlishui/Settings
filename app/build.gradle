@@ -44,7 +44,7 @@ dependencies {
     compileOnly files('../libs/framework.jar')
 
     implementation 'androidx.core:core:1.8.0'
-    implementation 'androidx.fragment:fragment:1.5.0'
+    implementation 'androidx.fragment:fragment:1.5.1'
     implementation 'androidx.appcompat:appcompat:1.4.2'
     implementation 'androidx.preference:preference:1.2.0'
     implementation 'androidx.annotation:annotation:1.4.0'
@@ -57,12 +57,12 @@ dependencies {
     implementation 'androidx.slice:slice-core:1.0.0'
     implementation 'androidx.slice:slice-builders:1.0.0'
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-    implementation 'androidx.lifecycle:lifecycle-runtime:2.5.0'
+    implementation 'androidx.lifecycle:lifecycle-runtime:2.5.1'
 //    {
 //        exclude group: 'androidx.lifecycle', module:'lifecycle-viewmodel'
 //        exclude group: 'androidx.lifecycle', module:'lifecycle-viewmodel-ktx'
 //    }
-    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1'
     implementation 'com.airbnb.android:lottie:5.2.0'
     implementation 'com.google.guava:guava:31.1-android'
     implementation 'com.google.android.material:material:1.6.1'
